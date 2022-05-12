@@ -9,7 +9,7 @@ image:
   height: 214   # in pixels
   alt: it is wednesday my doods.
 ---
-By now you might be wondering, what the heck is **"Bicks-bapa-roob"**?
+By now you must be wondering, what the heck is **"Bicks-bapa-roob"**?
 
 One evening, our founding members were on their usual weekly lunch catch-up call and as I recall, one of the members was sick. It prompted another one of our members to tell a story from his childhood. 
 
